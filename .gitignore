@@ -1,0 +1,25 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Flutter/.last_build_id
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-website
+/generated_plugin_registrant.dart
+.flutter-plugins
+
+# IntelliJ
+*.iml
+android/.gradle
+
+# VS Code
+.vscode/
+
+# Misc
+.DS_Store
+*.log
+
+# Files for images saved locally
+**/image_picker_*.jpg
